@@ -1,0 +1,10 @@
+cd cell
+call move.bat
+cd ../word
+call move.bat
+cd ../slide
+call move.bat
+cd ../pdf
+call move.bat
+cd ../ojdbc
+call move.bat

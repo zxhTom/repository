@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=ojdbc6-10.2.0.4.0.jar -DgroupId=com.oracle -DartifactId=ojdbc6 -Dversion=10.2.0.4.0 -Dpackaging=jar

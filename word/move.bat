@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=word-1.0.0.jar -DgroupId=com.github.zxhTom -DartifactId=word -Dversion=1.0.0 -Dpackaging=jar

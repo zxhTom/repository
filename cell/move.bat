@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=cell-1.0.0.jar -DgroupId=com.github.zxhTom -DartifactId=cell -Dversion=1.0.0 -Dpackaging=jar

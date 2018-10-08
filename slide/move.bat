@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=slide-1.0.0.jar -DgroupId=com.github.zxhTom -DartifactId=slide -Dversion=1.0.0 -Dpackaging=jar
